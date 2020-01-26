@@ -1,0 +1,4 @@
+fig/*
+.idea/
+*__pycache__/
+
