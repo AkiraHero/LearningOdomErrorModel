@@ -6,7 +6,7 @@ Ju, Xiaoliang, et al. "[Learning Scene Adaptive Covariance Error Model of LiDAR 
 
 and the submitted journal paper 
 
-Ju,Xiaoliang, et al. "Scene Aware Error Modeling of LiDAR/Visual Odometry for Fusion-based Vehicle Localization", submitted to *IEEE Transactions on Intelligent Transportation Systems*.
+Ju,Xiaoliang, et al. "Scene Aware Error Modeling of LiDAR/Visual Odometry for Fusion-based Vehicle Localization", submitted to *IEEE Transactions on Intelligent Transportation Systems*. IEEE, 2020.
 
 ## Dependencies
 
