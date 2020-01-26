@@ -38,7 +38,7 @@ Test the model:
 python3.5 Main/Test-ModelPrediction.py testing-configfile.ini [other options]
 ```
 
-2)Compare the positioning accuracy using the learned model
+2) Compare the positioning accuracy using the learned model
 
 ```
 python3.5 Main/Test-CompareLocAccuracy.py testing-configfile.ini [other options]
